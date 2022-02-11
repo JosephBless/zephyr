@@ -1,0 +1,22 @@
+
+The Zephyr Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
+
+The Zephyr OS is based on a small-footprint kernel designed for use on resource-constrained systems: from simple embedded environmental sensors and LED wearables to sophisticated smart watches and IoT wireless gateways.
+
+The Zephyr kernel supports multiple architectures, including ARM Cortex-M, Intel x86, ARC, Nios II, Tensilica Xtensa, and RISC-V, and a large number of supported boards.
+
+Getting Started
+Welcome to Zephyr! See the Introduction to Zephyr for a high-level overview, and the documentation's Getting Started Guide to start developing.
+
+Community Support
+Community support is provided via mailing lists and Discord; see the Resources below for details.
+
+Resources
+Here's a quick summary of resources to help you find your way around:
+
+Help: Asking for Help Tips
+Documentation: http://docs.zephyrproject.org (Getting Started Guide)
+Source Code: https://github.com/zephyrproject-rtos/zephyr is the main repository; https://elixir.bootlin.com/zephyr/latest/source contains a searchable index
+Releases: https://github.com/zephyrproject-rtos/zephyr/releases
+Samples and example code: see Sample and Demo Code Examples
+
